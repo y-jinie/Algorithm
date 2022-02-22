@@ -1,2 +1,2 @@
 # Algorithm
-using Python 3
+매일 
